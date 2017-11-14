@@ -1,0 +1,23 @@
+{
+  "name": "dankookie_project",
+  "version": "1.0.0",
+  "description": "GITHUB, Node.js, express 연습을 위한 프로젝트 입니다.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunimooni/dankookie.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sunimooni/dankookie/issues"
+  },
+  "homepage": "https://github.com/sunimooni/dankookie#readme"
+}
